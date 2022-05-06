@@ -1,0 +1,45 @@
+body {
+        margin: 0;
+        padding: 0;
+        background: #ddd;
+     }
+
+#container 
+    {
+        margin: 1em auto;
+        width: 650px;
+        background: #fff; 
+    }
+
+#header
+    {
+        background: rgb(8, 237, 245);
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+#mainnav
+    {
+        background-color: rgb(73, 185, 172);
+    }
+
+#menu
+    {
+        background-color: rgba(2, 209, 246, 0.602);
+        float: right;
+        width: 150px;
+    }
+
+#contents
+    {
+        float: left;
+        width: 500px;
+        background-color: azure;
+        margin: 0 0 0 20px;
+    }
+
+#footer
+    {
+        clear: both;
+        background-color: blue;        
+    }
+    
