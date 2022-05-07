@@ -7,7 +7,7 @@ body {
 #container 
     {
         margin: 1em auto;
-        width: 650px;
+        width: 100%;
         background: #fff; 
     }
 
@@ -26,13 +26,13 @@ body {
     {
         background-color: rgba(2, 209, 246, 0.602);
         float: right;
-        width: 150px;
+        width: 20%;
     }
 
 #contents
     {
         float: left;
-        width: 500px;
+        width: 77%;
         background-color: azure;
         margin: 0 0 0 20px;
     }
@@ -40,6 +40,16 @@ body {
 #footer
     {
         clear: both;
-        background-color: blue;        
+        background-color: rgb(217, 217, 246);        
     }
     
+    #footer1
+    {
+        float: left;
+        width: 50%;      
+    }
+    #footer2
+    {
+        float: right;
+        width: 50%;      
+    }
